@@ -4,6 +4,10 @@ An API app intended to help cope with harassers and abusers on Twitter.
 
 See more details at https://blocktogether.org.
 
+# This fork
+This fork is simply to increase the block limit from 250k to 2147483647. 
+It's untested but it should work.
+
 # Developer Setup Instructions
 
 First, create an app on Twitter for your local version of blocktogether:
